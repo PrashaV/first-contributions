@@ -1,4 +1,5 @@
 # Contributors-
+- [Md Akhtar](https://github.com/mdakhtar03)
 - [Saad Amjad](https://github.com/saadamjad44)
 - [Mrinal Singh](https://github.com/mrinal444)
 - [ Ozodbek Fayzullayev ](https://github.com/fayzullayevvvv)
@@ -16,6 +17,7 @@
 -[Binod Gogoi](https://github.com/gogoib477)
 -[Paravin Mulla](https://github.com/ParavinMulla786)
 - [Amulya Harish](...)
+- [Rand P]
 - [Srashti Choudhary]
 - [Akshara]
 - [Kishore Reddy](https://github.com/kishore7860)
@@ -31,6 +33,7 @@
 -[Yorka]
 -[Aditya Shashank Chinta](https://github.com/AdityaShashank)
 -[Hongju](https://github.com/hoot-hoot99)
+- [Elaine-764](https://github.com/Elaine-764)
 - [UROOJ ISMAIL](https://github.com/uroojismail48)
 - [Devashish Pisal](https://github.com/Devashish-Pisal)
 - [Kanta Komoike](https://github.com/komoike-oss28-ui)
@@ -174,6 +177,7 @@
 - [Aman Gupta](https://github.com/amangupta982)
 - [manojsharma46](https://github.com/manojsharma46)
 - [Rajkishor Thakur](https://github.com/rajkishort596)
+- Paul
 - Sarah Garcia
 - Sahith
 - Shaina Ford
@@ -3039,5 +3043,8 @@ Oiloo
 - [Stellin John George](https://github.com/Stellin-15)
 - [Palak](https://github.com/palak1-2)
 - [Berlin Brown](https://github.com/berlinbrown/)
+- [IH BARRET](https://github.com/IHBARRET/)
 - Surbhi
 - asuka-in-2024
+- [Mohammad Jahanseir](https://github.com/mjahjanseir/)
+- [Drew Ramos](https://github.com/drewsElearning) 
