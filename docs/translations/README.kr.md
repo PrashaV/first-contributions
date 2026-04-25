@@ -17,7 +17,7 @@
 <kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/de.svg" width="22">](translations/README.de.md)</kbd>
 <kbd>[<img title="Dansk" alt="Dansk" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/dk.svg" width="22">](translations/README.da.md)</kbd>
 <kbd>[<img title="العربية" alt="العربية" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/eg.svg" width="22">](translations/README.eg.md)</kbd>
-<kbd>[<img title="Dezéiriya" alt="Dezéiriya" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/dz.svg" width="22">](translations/README.dz.md)</kbd>
+<kbd>[<img title="Dezéiriya" alt="Dezéiriya" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/dz.svg" width="22">](translations/README.arq.md)</kbd>
 <kbd>[<img title="Española" alt="Española" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/es.svg" width="22">](translations/README.es.md)</kbd>
 <kbd>[<img title="Française" alt="Française" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/fr.svg" width="22">](translations/README.fr.md)</kbd>
 <kbd>[<img title="Gaeilge" alt="Gaeilge" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ie.svg" width="22">](translations/README.ga.md)</kbd>
